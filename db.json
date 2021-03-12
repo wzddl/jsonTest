@@ -1,9 +1,16 @@
 {
+    // 每个属性就相当于一个请求路径，可以有多个请求路径
     "userData": {
         "user": "小姐姐",
         "age": "28"
+    },
+    // 比如这里还有一个zodgame
+    "zodgame": {
+        "httpAddress": "https://zodgame.xyz",
+        "name": "ZodGame游戏论坛",
+        "ageLimit": "18+"
     }
-
 
 }
 
+// https://my-json-server.typicode.com/wzddl/jsonTest
